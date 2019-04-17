@@ -1,5 +1,5 @@
 # 4229Tree
-Final project for CSCI 4229 - Computer Graphics (Schreuder Fa18). L-System based tree generator in modern OpenGL.
+Final project for CSCI 4229 - Computer Graphics (Schreüder Fa18). L-System based tree generator in modern OpenGL.
 
 Written by Michael Rahn and Elijah Fisher.
 
